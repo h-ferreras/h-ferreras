@@ -1,0 +1,48 @@
+.info {
+    background-color: rgb(153, 150, 167);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 150px;
+    width: 50%;
+    text-align: center;
+    margin:auto;
+
+
+
+  }
+
+  a{
+color : white;
+font-style: normal;
+font-size: 35px;
+
+
+
+
+  }
+
+  .info img{ 
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+ align-content: center;
+ width: 35%;
+ height: 20%;
+display: flex;
+
+
+
+  }
+
+  .fotoIG img{
+   
+    width: 8%;
+    height: 7%;
+   margin-top: 20px;
+    border-radius: 10%;
+
+  }
